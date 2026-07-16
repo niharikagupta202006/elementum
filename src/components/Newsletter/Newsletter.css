@@ -1,0 +1,31 @@
+.newsletter{
+    background:#e6f7e4;
+    text-align:center;
+    padding:120px 20px;
+}
+
+.newsletter h2{
+    font-size:60px;
+    margin-bottom:20px;
+}
+
+.newsletter p{
+    margin-bottom:30px;
+    font-size:18px;
+}
+
+.newsletter button{
+    padding:16px 40px;
+    border:none;
+    border-radius:40px;
+    background:black;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+.newsletter button:hover{
+    transform:translateY(-3px);
+    background:#333;
+}

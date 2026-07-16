@@ -1,0 +1,37 @@
+.services{
+    margin:120px 0;
+}
+
+.services h2{
+    font-size:60px;
+    margin-bottom:50px;
+}
+
+.service{
+    display:grid;
+    grid-template-columns:1fr 2fr auto;
+    align-items:center;
+    padding:35px 0;
+    border-bottom:1px solid #ddd;
+}
+
+.service h3{
+    font-size:36px;
+    font-weight:400;
+}
+
+.service span{
+    font-size:35px;
+}
+
+.service p{
+    color:#666;
+}
+
+.service-row{
+    transition:0.3s;
+}
+
+.service-row:hover{
+    background:#f8f8f8;
+}

@@ -1,0 +1,37 @@
+.hero{
+    text-align:center;
+    margin-top:60px;
+}
+
+.hero h1{
+    font-size:60px;
+    font-weight:300;
+    line-height:1.1;
+}
+
+.hero span{
+    background:#dff5de;
+    padding:0 12px;
+    border-radius:20px;
+}
+
+.hero p{
+    width:650px;
+    margin:30px auto;
+    color:#555;
+    line-height:1.6;
+}
+.people{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    margin-top:50px;
+    flex-wrap:wrap;
+}
+
+.people img{
+    width:120px;
+    height:120px;
+    border-radius:50%;
+    object-fit:cover;
+}

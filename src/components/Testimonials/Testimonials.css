@@ -1,0 +1,19 @@
+.testimonials{
+    padding:100px 8%;
+    text-align:center;
+}
+
+.testimonials h2{
+    font-size:48px;
+    margin-bottom:50px;
+}
+
+.testimonial-card{
+    max-width:700px;
+    margin:auto;
+    background:#eef8ef;
+    padding:45px;
+    border-radius:20px;
+    line-height:1.8;
+    font-size:18px;
+}
